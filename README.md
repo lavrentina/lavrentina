@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there, I'm Vale 👋</h1>
-<p align="center">A beginner front-end developer based in Warsaw, Poland</p>
+<p align="center">A beginner React developer based in Warsaw, Poland</p>
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -30,12 +30,41 @@
 - [Maze Game](https://maze-game-qs7a.onrender.com)
 - [Movie Comparison App](https://movie-comparison-app.onrender.com)
 
+<details>
+<summary>Courses & Certificates</summary>
+<br>
+<ul>
+ <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/93FLMBUYFS9P)">📖 Meta Front-End Developer Specialization</a>
+  <br>
+     📆 October 2023
+  <br>
+     🌐 Coursera
+ </li>
+</ul>
+ <ul>
+  <li><a href="https://ude.my/UC-9f8121e9-ca51-43f7-aa51-ede17359149f">📖 The Modern Javascript Bootcamp Course (2022)</a>
+   <br>
+     📆 September 2023
+   <br>
+     🌐 Udemy
+     </li>
+ </ul>
+ <ul>
+   <li><a href="https://ude.my/UC-7645afc9-8794-4448-a6a4-7658b6d482d1">📖 The HTML & CSS Bootcamp 2023 Edition</a>
+     <br>
+    📆 June 2023
+    <br>
+     🌐 Udemy
+    </li>
+</ul>
+</details>
+
 #### Hobbies
 <a href="https://open.spotify.com/user/lavrentyeva.valentyna?si=bec0cfc5a1774843"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/sithness12345/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
  
-#### 👇 Feel free to contact me here 😊
+#### Feel free to contact me here 👇
 <a href="mailto: lavrentyeva.valentyna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/valentyna-lavrentyeva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
