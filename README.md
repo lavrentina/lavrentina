@@ -64,7 +64,7 @@
 <a href="https://steamcommunity.com/id/sithness12345/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
  
-#### Feel free to contact me here 👇
+<p>Feel free to contact me here 👇</p>
 <a href="mailto: lavrentyeva.valentyna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/valentyna-lavrentyeva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
